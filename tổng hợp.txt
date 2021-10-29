@@ -1,0 +1,9 @@
+﻿WORKSHOP
+(GUI ) in exercise_java_gui
++ thực hiện phép tính 
++ count chả count Integer
+
+
+EXERCISE
+(GUI Application – ReadOnly code)
++ thông tin nhân viên 
